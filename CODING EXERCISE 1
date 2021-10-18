@@ -14,8 +14,9 @@ public class MyLife {
 		System.out.println("6.00p.m. : Jogging");
 		System.out.println("7.30p.m. : Maghrib prayer and preparing for Isha' prayer");
 		System.out.println("9.00p.m. : Dinner");
-		System.out.println("10.00p.m.: Scrolling social media and etc");
-		System.out.print("12.00a.m. : Sleep");
+		System.out.println("10.00p.m.: Do revision and programming work");
+		System.out.println("12.00a.m. : Scrolling social media and etc");
+		System.out.print("1.00a.m. : Sleep");
 
 	}
 
