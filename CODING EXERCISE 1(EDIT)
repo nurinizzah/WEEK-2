@@ -1,0 +1,23 @@
+package myLife;
+
+public class MyLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("6.00a.m. : Subuh Prayer");
+		System.out.println("7.00a.m. : Breakfast and take a shower");
+		System.out.println("8.30a.m. : Attending online class");
+		System.out.println("12.30p.m.: Lunch and prepare for Zohor prayer");
+		System.out.println("2.30p.m. : Continue with online class");
+		System.out.println("5.30p.m. : Asr prayer and having tea-time");
+		System.out.println("6.00p.m. : Jogging");
+		System.out.println("7.30p.m. : Maghrib prayer and preparing for Isha' prayer");
+		System.out.println("9.00p.m. : Dinner");
+		System.out.println("10.00p.m.: Do revision and programming work");
+		System.out.println("12.00a.m. : Scrolling social media and etc");
+		System.out.print("1.00a.m. : Sleep");
+
+	}
+
+}
